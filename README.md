@@ -38,6 +38,10 @@ webdriver-manager update
 ```
 webdriver-manager start
 ```
+#### เปิดอีก tab (Ctrl+Shift+t) แล้ว เข้าไปในโฟลเดอร์งาน
+```
+http-server
+```
 #### เปิดอีก tab (Ctrl+Shift+t) แล้ว run
 ```
 protractor conf.js
