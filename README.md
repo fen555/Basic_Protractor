@@ -28,6 +28,16 @@ sudo apt-get install openjdk-7-jre-headless
 ```
 webdriver-manager start
 ```
+#### ถ้าไม่ได้อีกให้ลอง
+```
+sudo -s
+webdriver-manager update
+
+```
+#### ลอง start อีกรอบดูอีกทีซิ
+```
+webdriver-manager start
+```
 #### เปิดอีก tab (Ctrl+Shift+t) แล้ว run
 ```
 protractor conf.js
