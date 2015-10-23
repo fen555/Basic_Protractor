@@ -32,4 +32,9 @@ webdriver-manager start
 ```
 protractor conf.js
 ```
-
+## การอ่านไฟล์ spec
+* describe = คำอธิบายก่อนจะ test
+* browser.get('.....') = เปิด web browser แล้วจะเข้าไปใน link ใน .....
+* element = การดึงค่า
+* send = การส่งค่า
+* expect = คาดหวัง เป็นคำสั่งที่ใช้ในการ test (ผลลัพธ์ที่ต้องการ)
