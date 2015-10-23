@@ -4,7 +4,7 @@
 ```
 http://www.protractortest.org/
 ```
-#### ลง protrator
+#### ลง protractor
 ```
 npm install -g protractor
 ```
